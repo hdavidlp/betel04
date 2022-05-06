@@ -1,6 +1,7 @@
 <?php
 
     require_once("Config/config.php");
+    require_once("Helpers/Helpers.php");
 
     // Obtiene el valor del archivo .htaccess linea 6
     // para conocer todo lo que viaje en URL despues del home
