@@ -1,2 +1,11 @@
 Basado en el tutorial
-// https://www.youtube.com/watch?v=wInubzA0qSw&list=PL3b9xmg86NTIy18iJLav8oGyA3c__lw0S&index=7
+// https://www.youtube.com/watch?v=nyxNGKI_FgI&list=PL3b9xmg86NTIy18iJLav8oGyA3c__lw0S&index=8
+
+
+El navegador busca la url el nombre del controller, metodo, parametros
+Ej:
+http://localhost/betel04/login/
+Busca el archivo  Controllers/Login.php, 
+como no se esta especificando el metodo, busca uno con el mismo nombre
+en este caso login
+
