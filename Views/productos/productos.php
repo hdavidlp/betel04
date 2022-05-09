@@ -1,12 +1,10 @@
-<?php ("Views/layout/header.php");?>
+<?php include("Views/layout/header.php");?>
 
 
+<?php include ("Views/layout/menu_navegacion.php");?>
 
-<body>
     Lista de Productos
 
-    
-</body>
 
 
 <?php include("Views/layout/footer.php");?> 

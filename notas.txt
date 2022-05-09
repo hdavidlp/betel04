@@ -1,7 +1,7 @@
 Basado en el tutorial
 // https://www.youtube.com/watch?v=nyxNGKI_FgI&list=PL3b9xmg86NTIy18iJLav8oGyA3c__lw0S&index=8
-//https://www.youtube.com/watch?v=1xHRd8VS3Ls&list=PL3b9xmg86NTIy18iJLav8oGyA3c__lw0S&index=11
-Ultimo: ya tiene bootstrap integrado
+//https://www.youtube.com/watch?v=eV1sKzULD0Y&list=PL3b9xmg86NTIy18iJLav8oGyA3c__lw0S&index=12
+Ultimo: Preparado para publicar en Hosting
 
 
 El navegador busca la url el nombre del controller, metodo, parametros
@@ -21,4 +21,8 @@ Crear vista
 1.- Carpeta Views
 2.- Carpeta con nombre en minuscula ej: clientes
 3.- Crear archivo con nombre en minuscula ej: clientes
+
+
+Despliegue
+Al montarlo en un server, cambiar archivo config.php evitando localhost
 

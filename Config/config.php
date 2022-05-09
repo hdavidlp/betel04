@@ -1,5 +1,6 @@
 <?php
     //define("BASE_URL","http://localhost/betel04/");
+    // Cuando se haga el despliegue, cambiar localhost por dominio
     CONST BASE_URL = "http://localhost/betel04/";
 
     // Zona Horaria
